@@ -14,20 +14,20 @@
 <br>
 
 <a href="https://github.com/msaidzengin">
-<img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=msaidzengin&theme=react&border=61dafb&hide_border=true" alt="msaidzengin" />
+<img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=msaidzengin&theme=react&border=61dafb&hide_border=true"/>
+</a>
  
-
 <a href="https://github.com/msaidzengin">
-<img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=msaidzengin&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+<img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=msaidzengin&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </a>
 
 <a href="https://github.com/msaidzengin">
-<img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaidzengin&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaidzengin&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </a>
 
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=msaidzengin&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
+<a href="https://github.com/msaidzengin">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=msaidzengin&theme=react-dark&bg_color=20232a&hide_border=true" width="70%"/>
+</a>
 
 <!--
 - linkedin
