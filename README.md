@@ -12,9 +12,15 @@ Software engineer interested in algorithms, cybersecurity, data science, and NLP
 
 [![Web](https://skillicons.dev/icons?i=react,html,css,tailwind,vite,nodejs,django,vue&theme=dark&perline=8)](https://skillicons.dev)
 
+**Search and ML**
+
+[![Search and ML](https://skillicons.dev/icons?i=elasticsearch,pytorch,tensorflow,sklearn,jupyter&theme=dark&perline=5)](https://skillicons.dev)
+
+OpenSearch · Qdrant · Hugging Face · Kaggle · NLP · LLMs
+
 **Mobile and more**
 
-[![Mobile](https://skillicons.dev/icons?i=flutter,androidstudio,apple,unity,dotnet,jupyter&theme=dark&perline=6)](https://skillicons.dev)
+[![Mobile](https://skillicons.dev/icons?i=flutter,androidstudio,apple,unity,dotnet&theme=dark&perline=5)](https://skillicons.dev)
 
 **Tools**
 
